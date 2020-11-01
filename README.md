@@ -1,1 +1,1 @@
-# test1
+# Bash script to download a Postman environment and collections
